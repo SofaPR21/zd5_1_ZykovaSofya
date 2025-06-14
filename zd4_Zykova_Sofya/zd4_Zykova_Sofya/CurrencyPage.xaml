@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="zd4_Zykova_Sofya.CurrencyPage"
+            Title="Курсы валют">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="10">
+            <Label Text="Курсы валют ЦБ РФ" 
+                   StyleClass="title" />
+
+            <Frame StyleClass= "result-frame">
+                <StackLayout Spacing="10">
+                    <Label Text="Дата:" 
+                           StyleClass="result-label"/>
+                    <Label x:Name="dateLabel" 
+                           Text="01.01.2023" 
+                           StyleClass="result-label"/>
+
+                    <Label Text="USD:" 
+                           StyleClass="result-label"/>
+                    <Label x:Name="usdLabel" 
+                           Text="80.00 ₽" 
+                           StyleClass="result-label"/>
+
+                    <Label Text="EUR:" 
+                           StyleClass="result-label"/>
+                    <Label x:Name="eurLabel" 
+                           Text="90.00 ₽" 
+                           StyleClass="result-label"/>
+
+                    <Button Text="Обновить курсы" 
+                            Clicked="OnUpdateRatesClicked"
+                            StyleClass="success"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

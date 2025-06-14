@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:zd4_Zykova_Sofya" 
+            x:Class="zd4_Zykova_Sofya.MainPage"
+            BarBackgroundColor="#2196F3"
+            BarTextColor="White">
+
+    
+    <NavigationPage Title="Калькулятор" IconImageSource="calculator.png">
+        <x:Arguments>
+            <local:CreditPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Курсы" IconImageSource="currency.png">
+        <x:Arguments>
+            <local:CurrencyPage />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

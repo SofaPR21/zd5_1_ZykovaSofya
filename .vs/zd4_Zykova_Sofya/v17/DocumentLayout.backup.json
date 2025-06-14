@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\creditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\creditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\creditpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\creditpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|c:\\users\\sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_zykova_sofya\\zd4_zykova_sofya\\zd4_zykova_sofya\\currencypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DBEDB37C-6657-4AE8-A8D0-52922C0AB7B0}|zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya.csproj|solutionrelative:zd4_zykova_sofya\\zd4_zykova_sofya\\currencypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml.cs",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:34:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T17:38:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T17:30:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:37:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\styles.css",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\styles.css",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\styles.css",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-12T22:47:06.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T21:05:12.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml.cs",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvw4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:37:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml.cs",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CreditPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:07:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T17:34:22.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrencyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CurrencyPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CurrencyPage.xaml",
+              "ToolTip": "C:\\Users\\Sofya\\source\\repos\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd5_1_Zykova_Sofya\\zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CurrencyPage.xaml",
+              "RelativeToolTip": "zd4_Zykova_Sofya\\zd4_Zykova_Sofya\\CurrencyPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T21:07:18.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

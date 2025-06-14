@@ -1,0 +1,160 @@
+/* Общие стили */
+^ContentPage {
+    background-color: #f5f5f5;
+    padding: 10;
+}
+
+WelcomePage {
+    background-color: #121212; /* Темный фон */
+}
+
+.title {
+    font-size: 24;
+    font-weight: bold;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20;
+}
+
+.section-title {
+    font-size: 16;
+    color: #7f8c8d;
+}
+
+.highlight {
+    font-size: 18;
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+/* Кнопки */
+.primary {
+    background-color: #3498db;
+    color: white;
+    border-radius: 5;
+    padding: 12;
+}
+
+.success {
+    background-color: #2ecc71;
+    color: white;
+}
+
+/* Карточки */
+Frame {
+    background-color: white;
+    border-radius: 10;
+    padding: 15;
+    margin: 10 0;
+}
+
+/* Поля ввода */
+Entry, Picker {
+    color: #000000; 
+    background-color: #FFFFFF; 
+    placeholder-color: #95a5a6; 
+    font-size: 16; 
+    padding: 10;
+    border-radius: 5; 
+    margin-bottom: 10; 
+}
+
+/* Общие стили для плашки (Frame) */
+.result-frame {
+    background-color: #f8f9fa; /* Светлый фон */
+    border-color: #dee2e6;
+    border-width: 1;
+    border-radius: 8;
+    padding: 15;
+    margin: 10 0;
+    shadow-color: #000000;
+    shadow-opacity: 0.1;
+    shadow-radius: 4;
+}
+
+/* Стили для текста результатов */
+.result-label {
+    font-size: 16;
+    color: #2c3e50; /* Темно-серый для читаемости */
+    margin: 5 0;
+}
+
+.highlight-result {
+    font-size: 18;
+    color: #e74c3c; /* Красный для акцента */
+    font-weight: bold;
+}
+
+
+/* Заголовок */
+.welcome-title {
+    font-size: 28;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 40;
+}
+
+/* Контейнеры полей ввода */
+.input-container {
+    background-color: #1E1E1E;
+    border-radius: 10;
+    border-color: #333333;
+    border-width: 1;
+    margin: 10 0;
+    padding: 0;
+}
+
+/* Лейблы полей */
+.input-label {
+    color: #B0B0B0;
+    font-size: 14;
+    margin: 10 10 0 10;
+}
+
+/* Поля ввода */
+.input-field {
+    background-color: transparent;
+    color: #FFFFFF;
+    placeholder-color: #666666;
+    font-size: 16;
+    padding: 10;
+    margin: 0 10 10 10;
+    border-width: 0;
+}
+
+/* Кнопка входа */
+.signin-button {
+    background-color: #FF5252; /* Красный */
+    color: white;
+    font-size: 18;
+    font-weight: bold;
+    padding: 15;
+    margin: 30 0;
+    border-radius: 5;
+    text-align: center;
+}
+
+/* Опции */
+.options-container {
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 15 0;
+}
+
+/* Чекбокс и текст */
+.remember-me {
+    color: #B0B0B0;
+    font-size: 14;
+}
+
+.forgot-password {
+    color: #FF5252;
+    font-size: 14;
+    text-decoration: underline;
+}
+
+/* Чекбокс (Android) */
+checkbox {
+    color: #FF5252;
+}

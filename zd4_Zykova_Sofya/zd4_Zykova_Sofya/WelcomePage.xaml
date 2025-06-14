@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Zykova_Sofya.WelcomePage"
+             Title="Welcome">
+
+    <ScrollView>
+        <StackLayout Padding="20" 
+                     Spacing="0">
+            <!-- Заголовок -->
+            <Label Text="Welcome" 
+                   StyleClass="welcome-title" />
+
+            <!-- Поле ввода имени -->
+            <Frame StyleClass="input-container">
+                <StackLayout>
+                    <Label Text="Username"
+                           StyleClass="input-label"/>
+                    <Entry x:Name="usernameEntry"
+                           StyleClass="input-field"
+                           />
+                </StackLayout>
+            </Frame>
+
+            <!-- Поле ввода пароля -->
+            <Frame StyleClass="input-container">
+                <StackLayout>
+                    <Label Text="Password"
+                           StyleClass="input-label"/>
+                    <Entry x:Name="passwordEntry"
+                           StyleClass="input-field"
+                           IsPassword="True"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Опции -->
+            <StackLayout StyleClass="options-container">
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox Color="#FF5252"/>
+                    <Label Text="Remember me"
+                           StyleClass="remember-me"
+                           Margin="10,0,0,0"/>
+                </StackLayout>
+
+                <Label Text="I forgot!"
+                       StyleClass="forgot-password">
+                    <Label.GestureRecognizers>
+                       
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+
+            <!-- Кнопка входа -->
+            <Button Text="Sign in"
+                    StyleClass="signin-button"
+                    Clicked="OnSignInClicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
